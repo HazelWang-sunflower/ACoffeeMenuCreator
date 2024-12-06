@@ -1,0 +1,88 @@
+brew install yarn
+sudo port install yarn
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install yarn
+brew install yarn
+npm install -g yarn
+sudo
+sudo su
+sudo su
+yarn -v
+sudo install -g yarn
+sudo install -g yarn
+yarn --version
+npm install -g yarn
+sudo port install yarn
+sudo intall yarn
+sudo npm install yarn
+yarn --version
+sudo yarn --version
+sudo cd Koala
+ng new my-app
+ng add @angular/material
+npm run start
+npm install
+npm run start
+npm run start
+npm run start
+npm i
+npm i
+npm run start
+sudo npm install vue
+npm install materialcss
+npm run start
+npm install testcafe
+npm run start
+vue -v
+vue -version
+npm install
+node app.js
+npm run start
+npm run watch
+node app.js
+git init
+cd desktop/Koala
+cd project
+cd Project
+npm run start
+cd desktop/Koaka/Project
+cd Koala
+cd/User/Koala/Desktop/Koala
+cd /Users/koala/Desktop/Koala 
+cd Project
+cd koalaUI-master
+git init
+git init
+git .add
+git add .
+git commit -m "fetch"
+git remote add origin git@github.com:wyhsunflower/koalaUI.git
+git pull origin master
+ssh-keygen -t rsa -C wyh_sunflower@163.com
+cd /User/Desktop/Koala/.ssh
+cd /Users/koala/.ssh
+ls -al
+vim id_rsa.pub
+ssh -T git@github.com
+git config --global user.name wyhsunflower
+git config --global user.email wyh_sunflower@163.com
+git branch --set-upstream-to=origin/koalaUI master
+git fetch
+git pull origin/koalaUI
+git remote add origin git@github.com:wyhsunflower/koalaUI.git
+git branch --set-upstream-to=origin/master master
+git pull origin/koalaUI
+git pull origin/master
+git pull
+git push
+git fetch
+git merge
+git pull
+git push
+git config branch.master.remote origin
+git config branch.master.merge refs/heads/master
+git pull
+git push
+git init
+git push
+git push -f

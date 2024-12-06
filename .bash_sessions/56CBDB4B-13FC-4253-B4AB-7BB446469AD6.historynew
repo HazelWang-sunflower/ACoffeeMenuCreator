@@ -1,0 +1,8 @@
+sudo taro -v
+cnpm uninstall -g @tarojs/cli
+sudo cnpm uninstall -g @tarojs/cli
+cnpm install -g @tarojs/cli@2.2.11
+sudo cnpm install -g @tarojs/cli@2.2.11
+taro -v
+npm install -g mirror-config-china
+sudo cnpm install -g mirror-config-china

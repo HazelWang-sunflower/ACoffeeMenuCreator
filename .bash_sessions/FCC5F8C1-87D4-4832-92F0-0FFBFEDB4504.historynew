@@ -1,0 +1,4 @@
+npm config list
+source ~/.bashrc && env
+sudo npm i -g mirror-config-china --registry=https://registry.npm.taobao.org
+sudo npm i -g mirror-config-china --registry=https://registry.npm.taobao.org

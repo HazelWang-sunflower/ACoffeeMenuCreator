@@ -1,0 +1,21 @@
+brew install yarn
+sudo port install yarn
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install yarn
+brew install yarn
+npm install -g yarn
+sudo
+sudo su
+sudo su
+yarn -v
+sudo install -g yarn
+sudo install -g yarn
+yarn --version
+npm install -g yarn
+sudo port install yarn
+sudo intall yarn
+sudo npm install yarn
+yarn --version
+sudo yarn --version
+sudo cd Koala
+ng new my-app

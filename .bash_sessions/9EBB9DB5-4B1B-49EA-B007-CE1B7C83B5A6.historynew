@@ -1,0 +1,6 @@
+npm -config
+sudo npm i -g mirror-config-china --registry=https://registry.npm.taobao.org
+cd ...
+# cd ..
+#ll
+ll
